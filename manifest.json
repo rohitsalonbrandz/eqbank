@@ -1,0 +1,24 @@
+{
+  "name": "EQ Bank",
+  "short_name": "EQ Bank",
+  "description": "EQ Bank - Digital Banking App",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F5C500",
+  "theme_color": "#F5C500",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
